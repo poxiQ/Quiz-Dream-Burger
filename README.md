@@ -1,2 +1,2 @@
-# Quiz-Dream-Burger-
+# Quiz-Dream-Burger
 ## Training project Glo Academy
